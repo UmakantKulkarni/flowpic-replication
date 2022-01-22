@@ -1,9 +1,9 @@
 {
-    "source": "data/features/",
-    "outdir": "data/out/",
+    "source": "/home/ukulkarn/FlowPic/input/",
+    "outdir": "/home/ukulkarn/FlowPic/output/",
     "outfile": "model-histonly.h5",
-    "batch_size": 32,
-    "epochs": 20,
-    "validation_size": 0.2,
+    "batch_size": 10,
+    "epochs": 40,
+    "validation_size": 0.1,
     "dimensions_to_use": [0]
 }
